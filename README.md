@@ -11,11 +11,11 @@
 
 ### Thành viên nhóm
 
-| STT | Họ tên | MSSV | Email | Github 
-| :---: | --- | --- | --- | --- | --- |
-| 1 | Trương Quốc Bình | 19521270 | 19521270@gm.uit.edu.vn | [noeffortnomoney](https://github.com/noeffortnomoney) 
-| 2 | Trần Vĩ Hào | 19521482 | 19521482@gm.uit.edu.vn | [hlhkudo](https://github.com/hlhkudo) 
-| 3 | Tô Thanh Hiền | 19521490 | 19521490@gm.uit.edu.vn | [The-good-guyy](https://github.com/The-good-guyy) 
+| STT | Họ tên | MSSV | Email | Github |
+| :---: | --- | --- | --- | --- | 
+| 1 | Trương Quốc Bình | 19521270 | 19521270@gm.uit.edu.vn | [noeffortnomoney](https://github.com/noeffortnomoney) |
+| 2 | Trần Vĩ Hào | 19521482 | 19521482@gm.uit.edu.vn | [hlhkudo](https://github.com/hlhkudo) |
+| 3 | Tô Thanh Hiền | 19521490 | 19521490@gm.uit.edu.vn | [The-good-guyy](https://github.com/The-good-guyy) |
 
 
 
