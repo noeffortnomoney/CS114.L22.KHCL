@@ -1,10 +1,5 @@
 # CS114.L22.KHCL - MÁY HỌC - MACHINE LEARNING
 
-## Bảng mục lục
-* [Giới thiệu](#giới-thiệu)
-* [Giảng viên](#giảng-viên)
-* [Thành viên nhóm](#thành-viên-nhóm)
-
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
 * Mã lớp: CS114.L22.KHCL
