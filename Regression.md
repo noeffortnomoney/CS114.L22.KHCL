@@ -33,7 +33,7 @@
 ### 3. Dự đoán giá nhà ở
 
 - Input: (kiểu số nguyên)
-    + Diện tích $(m^2)$
+    + Diện tích ($m^2$)
     + Số phòng
     + Tuổi căn nhà
  - Output: (kiểu số nguyên)
