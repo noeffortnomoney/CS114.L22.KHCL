@@ -5,7 +5,7 @@
 - Input:
     + Tỉ lệ sinh sản
     + New Environmental Performance Index (EPI)
-    + GDP(gross domestic product)
+    + GDP (gross domestic product)
     + Tỉ lệ bệnh tim
     + Dân số
     + Mật độ dân số
@@ -33,7 +33,7 @@
 ### 3. Dự đoán giá nhà ở
 
 - Input: (kiểu số nguyên)
-    + Diện tích ($m^2$)
+    + Diện tích (m^2)
     + Số phòng
     + Tuổi căn nhà
  - Output: (kiểu số nguyên)
