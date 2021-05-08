@@ -15,8 +15,8 @@
 - Cách thu nhập data:
     Có thể thu nhập thông tin qua internet (vì thực sự thông tin không quá khó kiếm) như wikipedia,etc.. hoặc đơn giản hơn có thể lấy bộ dataset của WHO trên Kaggle
 - Cách xử lý data:
-    +Tìm xem các feature nào có bị multicollinear và xử lý.
-    +Tìm xem các feature là outliner và xử lý
+    + Tìm xem các feature nào có bị multicollinear và xử lý.
+    + Tìm xem các feature là outliner và xử lý
 
 ### 2. Dự đoán kết quả tổng kết môn học từ số giờ học ở nhà trong 1 tuần của 1 sinh viên
 
