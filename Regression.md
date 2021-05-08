@@ -3,13 +3,13 @@
 ### 1. Dự đoán tuổi thọ trung bình của từng nước
 
 - Input:
-    +Tỉ lệ sinh sản
-    +New Environmental Performance Index (EPI)
-    +GDP(gross domestic product)
-    +Tỉ lệ bệnh tim
-    +Dân số
-    +Mật độ dân số
-    +Tỉ lệ đột quỵ
+    + Tỉ lệ sinh sản
+    + New Environmental Performance Index (EPI)
+    + GDP(gross domestic product)
+    + Tỉ lệ bệnh tim
+    + Dân số
+    + Mật độ dân số
+    + Tỉ lệ đột quỵ
 - Output:
     Tuổi thọ trung bình của từng nước
 - Cách thu nhập data:
