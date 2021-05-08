@@ -21,9 +21,9 @@
 ### 2. Dự đoán kết quả tổng kết môn học từ số giờ học ở nhà trong 1 tuần của 1 sinh viên
 
 - Input:
-	  Số giờ (giờ). (Kiểu số thực)
+	  Số giờ (giờ) (Kiểu số thực)
 - Output:
-	  Kết quả tổng kết môn học. (Kiểu số thực)
+	  Kết quả tổng kết môn học (Kiểu số thực)
 - Cách thu thập data:
 	  Bộ dữ liệu khảo sát giờ học và điểm tổng kết môn học tương ứng của mỗi sinh viên do nhà trường thu thập.
 - Cách xử lý data:
