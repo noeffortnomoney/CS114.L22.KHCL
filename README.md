@@ -19,7 +19,7 @@
 
 ## Đồ án cuối kỳ
 * Tên đồ án: NHẬN DẠNG CHỮ VIẾT TAY TIẾNG VIỆT
-* [Mô tả bài toán](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/readme.md)
+* [Mô tả đồ án](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/readme.md)
 * Thư mục: [Final Project](https://github.com/noeffortnomoney/CS114.L22.KHCL/tree/main/Final%20Project)
 * Báo cáo đồ án cuối kì: 
   + [Báo cáo đồ án Chữ cái viết tay Tiếng Việt](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/Final_Report_ML.pdf) 
