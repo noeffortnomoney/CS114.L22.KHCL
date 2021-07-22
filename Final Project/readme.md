@@ -21,6 +21,15 @@ INPUT: Một tấm ảnh trong đó có chứa đúng một chữ cái tiếng V
 
 OUTPUT: Chữ cái tương ứng với tấm ảnh đó.
 
+VD: 
+
+Input:            
+
+   ![image](https://user-images.githubusercontent.com/79963001/126604150-d7520a5f-f4b4-4558-886c-3beeef64de2e.png)
+
+Output: a
+
+
 
 ## Mô tả về bộ dữ liệu
 ### Cách thức xây dựng bộ dữ liệu
