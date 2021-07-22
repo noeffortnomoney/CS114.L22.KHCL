@@ -24,7 +24,7 @@
 * Báo cáo đồ án cuối kì: 
   + [Báo cáo đồ án Chữ cái viết tay Tiếng Việt](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/Final_Report_ML.pdf) 
   + [Slide báo cáo](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/Final_Presentation_ML.pdf)
-  + Ngoài ra, còn liệt kê dataset, file trainning googlecolab cho đồ án, mẫu thu dataset, ... tất cả nằm trong thư mục Final Project.
+  + Ngoài ra, phần liệt kê dataset, file trainning Google Colab cho đồ án, mẫu thu dataset, v.v... tất cả đều nằm trong thư mục Final Project.
 
 ### Ghi chú (https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
 "Sorry, something went wrong. Reload?" when viewing *.ipynb
