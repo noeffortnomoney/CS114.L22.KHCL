@@ -17,10 +17,14 @@
 | 2 | Trần Vĩ Hào | 19521482 | 19521482@gm.uit.edu.vn | [hlhkudo](https://github.com/hlhkudo) |
 | 3 | Tô Thanh Hiền | 19521490 | 19521490@gm.uit.edu.vn | [The-good-guyy](https://github.com/The-good-guyy) |
 
-### Đồ án cuối kỳ
+## Đồ án cuối kỳ
 * Tên đồ án: NHẬN DẠNG CHỮ VIẾT TAY TIẾNG VIỆT
 * [Mô tả bài toán](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/readme.md)
 * Thư mục: [Final Project](https://github.com/noeffortnomoney/CS114.L22.KHCL/tree/main/Final%20Project)
+* Báo cáo đồ án cuối kì: 
+  + [Báo cáo đồ án Chữ cái viết tay Tiếng Việt](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/Final_Report_ML.pdf) 
+  + [Slide báo cáo](https://github.com/noeffortnomoney/CS114.L22.KHCL/blob/main/Final%20Project/Final_Presentation_ML.pdf)
+  + Ngoài ra, còn liệt kê dataset, file trainning googlecolab cho đồ án, mẫu thu dataset, ... tất cả nằm trong thư mục Final Project.
 
 ### Ghi chú (https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
 "Sorry, something went wrong. Reload?" when viewing *.ipynb
