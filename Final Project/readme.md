@@ -42,13 +42,9 @@ latin. Có 7 chữ cái biến thể bằng cách thêm dấu. Không những th
 âm là ngang, sắc , huyền , hỏi, ngã, nặng. Kết hợp với các nguyên âm sẽ tạo nên các biến thể 
 khác. Tổng cộng chúng ta sẽ có 89 loại chữ cần thu thập. 
 
-Nhóm em đã làm các tờ giấy thu nhập chữ viết phân phát cho người thân và người 
-quen. Một bộ sẽ có hai tờ giấy, bao gồm 89 chữ cái, mỗi chữ cái sẽ được điền 10 lần. Sau đó 
-các tờ giấy sẽ được thu nhập và chụp hình lại. Hình sau đó sẽ được phân tách ra thành từng 
-chữ cái và dán nhãn. Đây là phương thức vô cùng mất thời gian nhưng đảm bảo tính đa dạng 
-của dataset.
+Nhóm em đã làm các tờ giấy thu nhập chữ viết phân phát cho người thân và bạn bè. Nhóm em đã share dataset với nhóm của bạn Nguyễn Dương Hải. Một bộ sẽ có hai tờ giấy, bao gồm 89 chữ cái, mỗi chữ cái sẽ được điền 10 lần. Sau đó các tờ giấy sẽ được thu nhập và chụp hình lại. Hình sau đó sẽ được phân tách ra thành từng chữ cái và dán nhãn. Đây là phương thức vô cùng mất thời gian nhưng đảm bảo tính đa dạng của dataset.
 
-Nhóm em đã share dataset với nhóm của bạn Nguyễn Dương Hải.
+
 
 ### Số lượng, độ đa dạng dữ liệu
 Bộ dataset chữ cái viết tay tiếng Việt sau khi thu thập có tổng cộng 50114 hình ảnh đã 
