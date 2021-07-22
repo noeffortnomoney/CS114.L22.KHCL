@@ -48,6 +48,8 @@ các tờ giấy sẽ được thu nhập và chụp hình lại. Hình sau đó
 chữ cái và dán nhãn. Đây là phương thức vô cùng mất thời gian nhưng đảm bảo tính đa dạng 
 của dataset.
 
+Nhóm em đã share dataset với nhóm của bạn Nguyễn Dương Hải.
+
 ### Số lượng, độ đa dạng dữ liệu
 Bộ dataset chữ cái viết tay tiếng Việt sau khi thu thập có tổng cộng 50114 hình ảnh đã 
 được phân loại.
