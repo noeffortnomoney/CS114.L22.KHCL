@@ -17,6 +17,10 @@
 | 2 | Trần Vĩ Hào | 19521482 | 19521482@gm.uit.edu.vn | [hlhkudo](https://github.com/hlhkudo) |
 | 3 | Tô Thanh Hiền | 19521490 | 19521490@gm.uit.edu.vn | [The-good-guyy](https://github.com/The-good-guyy) |
 
+### Đồ án cuối kỳ
+* Tên đồ án: NHẬN DẠNG CHỮ VIẾT TAY TIẾNG VIỆT
+* Thư mục: [Final Project](https://github.com/noeffortnomoney/CS114.L22.KHCL/tree/main/Final%20Project)
+
 ### Ghi chú (https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
 "Sorry, something went wrong. Reload?" when viewing *.ipynb
 
